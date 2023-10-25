@@ -22,7 +22,7 @@
 * @[Joyce](https://www.zhihu.com/people/joyce-23-81-27)的[2023（2024届）计算机保研经验分享](https://zhuanlan.zhihu.com/p/659205860)
 * @[邹鸿月](https://www.zhihu.com/people/Aromyase)的[2023（2024入学）计算机保研经验贴](https://zhuanlan.zhihu.com/p/659565414)
 * @[大笨钟下送快递](https://www.zhihu.com/people/xi-en-39-14)的[2024届计算机保研经验分享(说是经验贴其实更像流水账😂)](https://zhuanlan.zhihu.com/p/659116946)
-* @[second village](https://www.zhihu.com/people/ai-mo-mo-mo-mo-mo-mo)的[2024计算机保研-夏令营就结束吧！（清叉&贵&深 | 中科院自所 | 高瓴 | 港三 | 复交南）](https://zhuanlan.zhihu.com/p/643630647)
+* @[second village](https://www.zhihu.com/people/ai-mo-mo-mo-mo-mo-mo)的[2024计算机保研-夏令营就结束吧！（清叉&amp;贵&amp;深 | 中科院自所 | 高瓴 | 港三 | 复交南）](https://zhuanlan.zhihu.com/p/643630647)
 * @[梦过了尽头也不归](https://www.zhihu.com/people/95-30-74-28)的[2024届计算机保研经验分享](https://zhuanlan.zhihu.com/p/659572529)
 * @[愤怒的小孩](https://www.zhihu.com/people/yi-zhou-65-80-99)的[2024计算机保研经验——末九三无选手的上岸路](https://zhuanlan.zhihu.com/p/659172609)
 * @[weixin_53463856](https://blog.csdn.net/weixin_53463856?type=blog)的[2024届计算机保研经验贴（计算所，复旦，南大，哈工大，天大、西交等等）](https://blog.csdn.net/weixin_53463856/article/details/133412909)
@@ -31,7 +31,7 @@
 * @[是Dream呀](https://juejin.cn/user/765678294413181/posts)的[2023（2024届）计算机保研经验分享，圆梦山东大学](https://juejin.cn/post/7284417436752707645)
 * @[好的](https://www.zhihu.com/people/hao-de-72-70-44)的[2023-2024计算机保研历程（网安）](https://zhuanlan.zhihu.com/p/659493955)
 * @[三旬](https://www.zhihu.com/people/san-xun-98-97)的[2024届计算机保研经验贴](https://zhuanlan.zhihu.com/p/659460973)
-* @[For1moc](https://www.zhihu.com/people/si-yu-85-41-4)的[2024届CTF/信安/网安方向计算机保研帖(末九=>复旦)](https://www.zhihu.com/question/537883625/answer/3232678535)
+* @[For1moc](https://www.zhihu.com/people/si-yu-85-41-4)的[2024届CTF/信安/网安方向计算机保研帖(末九=&gt;复旦)](https://www.zhihu.com/question/537883625/answer/3232678535)
 * @[hollow](https://blog.csdn.net/m0_51507437)的[2023（2024届）计算机保研经验分享（网安向）](https://blog.csdn.net/m0_51507437/article/details/133420369)
 * @[妖魔鬼怪快离开](https://www.zhihu.com/people/pdqke0)的[2023年（2024届）计算机保研经验贴（浙软、同济软、哈工大计算学部）](https://zhuanlan.zhihu.com/p/658963182)
 * @[Zero](https://www.zhihu.com/people/absolute-zero-51)的[2023年非典型性计算机保研经验贴——中科大信院、中山软院、川大计院](https://zhuanlan.zhihu.com/p/659043338)
@@ -59,6 +59,8 @@
 * @[大能猫吃热千面](https://www.zhihu.com/people/wei-yi-43-99-52)的[2023年外校保研清华贵系经验](https://zhuanlan.zhihu.com/p/662602638)
 * @[宅前一棵树](https://www.zhihu.com/people/zhai-qian-yi-ke-shu)的[2023年（2024届）计算机保研/升学实录（港中深数据科学、上交软、清软）](https://zhuanlan.zhihu.com/p/659320000)
 * @[jwimd](https://jwimd.github.io/)的[24跨保CS经验贴（清华叉院，清华软院工博，浙大计院直博）](https://zhuanlan.zhihu.com/p/663081725)
+* @[L-811](https://github.com/L-811)的[2023年中末流211计算机保研记录（自动化所、天大、南开、东南、北师大、厦大）](https://zhuanlan.zhihu.com/p/659208624)
+
 ## 2022夏令营总结贴
 
 * @[浮槎](https://www.zhihu.com/people/yifanyeung)的[2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）](https://zhuanlan.zhihu.com/p/573038839?)
@@ -79,7 +81,7 @@
 * @[栖风破雨](https://www.zhihu.com/people/qi-feng-po-yu)的[2022年大数据保研经验贴（北大叉院、南大AI院、哈工大SCIR实验室、SIAT数字所）](https://zhuanlan.zhihu.com/p/573474044)
 * @[无与](https://www.zhihu.com/people/wu-yi-jian-64)的[2022年计算机保研经历（清华软院、复旦CS、人大高瓴、南大CS等）](https://zhuanlan.zhihu.com/p/573141762)
 * @[Alkali！](https://blog.csdn.net/weixin_45798993?type=blog)的[2022保研经验贴：华南理工大学计算机科学与工程学院 、东南大学计算机科学与工程学院等](https://blog.csdn.net/weixin_45798993/article/details/127155636)
-* @[等风来不如追风去](https://www.zhihu.com/people/shang-li-xin-85)的[2022年保研经验网安&华五&武大中山等](https://zhuanlan.zhihu.com/p/573404307)
+* @[等风来不如追风去](https://www.zhihu.com/people/shang-li-xin-85)的[2022年保研经验网安&amp;华五&amp;武大中山等](https://zhuanlan.zhihu.com/p/573404307)
 * @[相约相守到天边](https://blog.csdn.net/m0_47262980?type=blog)的[2022年计算机保研记录（计算所、浙大、华科、东南、北航）](https://blog.csdn.net/m0_47262980/article/details/127122358)
 * @[xx学渣](https://www.zhihu.com/people/xxxue-zha)的[2022年计算机保研夏令营/预推免经验分享（清北华五人）](https://zhuanlan.zhihu.com/p/559444934)
 * @[Someity](https://www.zhihu.com/people/aegsteh)的[2022计算机保研经验（清华深圳计算机、清华网研院、南京大学等）](https://zhuanlan.zhihu.com/p/569722841)
@@ -111,16 +113,16 @@
 * @[莱昂纳多七世](https://www.zhihu.com/people/yi-qiao-98-91)的[2022年四非计算机保研之旅（信工所、软件所、计算所、南大、国防科大、北师大、北工大等）](https://zhuanlan.zhihu.com/p/575140597)
 * @[whisper](https://www.zhihu.com/people/whisper-56-23)的[2022年计算机保研经历分享](https://zhuanlan.zhihu.com/p/583086125?)
 * @[ksuD](https://www.zhihu.com/people/wang-chang-93-26)的[2022年（23届）计算机保研经验贴（清深、浙大、中科大、复旦、南大、人大高瓴等）-末流211“三无”选手-（无title无rk无paper）曲曲折折的推免之路](https://zhuanlan.zhihu.com/p/578838468)
-* @[Stephen.ki](https://www.zhihu.com/people/mou-yu-qi-87)的[2022年计算机保研经验贴（双非DS->同济CS）](https://zhuanlan.zhihu.com/p/584854212)
+* @[Stephen.ki](https://www.zhihu.com/people/mou-yu-qi-87)的[2022年计算机保研经验贴（双非DS-&gt;同济CS）](https://zhuanlan.zhihu.com/p/584854212)
 * @[月亮在偷看吖](https://www.zhihu.com/people/zhong-xia-wei-mang)的[2023届计算机保研（北大华五两所）](https://zhuanlan.zhihu.com/p/578775674)
 * @[啦啦啦](https://www.zhihu.com/people/wan-feng-yu-gui-49)的[2022计算机保研经验分享（清深伯克利tbsi+北深）](https://zhuanlan.zhihu.com/p/596883087)
 * @[反过来想](https://www.zhihu.com/people/111-88-16-78)的[2023-计算机保研经历-南大lamda 中科大 北航 山大](https://zhuanlan.zhihu.com/p/569478861)
-* @[陆壹zero](https://www.zhihu.com/people/jin-shu-zhi-guo-wang)的[2022计算机保研经验贴|厦门大学MAC实验室&浙江大学软件学院|线下夏令营|名场面竟是我自己](https://zhuanlan.zhihu.com/p/570092284)
+* @[陆壹zero](https://www.zhihu.com/people/jin-shu-zhi-guo-wang)的[2022计算机保研经验贴|厦门大学MAC实验室&amp;浙江大学软件学院|线下夏令营|名场面竟是我自己](https://zhuanlan.zhihu.com/p/570092284)
 * @[白白阿桑](https://www.zhihu.com/people/do-today)的[2022年（2023届）计算机保研经验（北大工学院、清深TBSI、自动化所、计算所、港中文、上交、复旦、南大、北航等）](https://zhuanlan.zhihu.com/p/624744728)
 
 ## 2021夏令营总结贴
 
-* @[阿尔法杨XDU](https://www.zhihu.com/people/mu-yi-yang-42-66)的[2021年人工智能保研经历(xduee->njuai)](https://zhuanlan.zhihu.com/p/420184627)
+* @[阿尔法杨XDU](https://www.zhihu.com/people/mu-yi-yang-42-66)的[2021年人工智能保研经历(xduee-&gt;njuai)](https://zhuanlan.zhihu.com/p/420184627)
 * @[Girapath](https://www.zhihu.com/people/shuo-xiao-ming-ren-31)的[2021年计算机保研经验分享（复旦、哈深、浙大、南大、北大软微）](https://zhuanlan.zhihu.com/p/414650183?utm_source=qq&utm_medium=social&utm_oi=844322192228515840)
 * @[lhchen](https://www.zhihu.com/people/hao-55-16)的[2021CS保研经验（清北复交浙、南大、人大）](https://lhchen.top/exp-baoyan/)
 * @[BoJack](https://www.zhihu.com/people/ma-zi-yang-76-38/)的[2021年（22届）计算机保研经历](https://zhuanlan.zhihu.com/p/393614897)
@@ -134,7 +136,7 @@
 * @[SandyXi](https://sandyxi.gitee.io/)的[2021夏——保研夏令营](https://sandyxi.gitee.io/2021/10/05/2021夏——保研夏令营/)
 * @[枫楠Kuiy](https://blog.csdn.net/weixin_43968093/article/details/120484114?spm=1001.2014.3001.5501)的[2021计算机保研经历](https://blog.csdn.net/weixin_43968093/article/details/120484114?spm=1001.2014.3001.5501)
 * @[JamisonZ](https://www.zhihu.com/people/zh666-15-15)的[2021计算机保研(双非)网安向](https://zhuanlan.zhihu.com/p/415894198)
-* @[一只眠羊](https://www.zhihu.com/people/yi-nan-ping-53-73)的[2021计算机保研经历——南开、厦大、哈工大威海、华师、浙大、北航](https://zhuanlan.zhihu.com/p/419866142) 
+* @[一只眠羊](https://www.zhihu.com/people/yi-nan-ping-53-73)的[2021计算机保研经历——南开、厦大、哈工大威海、华师、浙大、北航](https://zhuanlan.zhihu.com/p/419866142)
 * @[清风酒醉](https://www.zhihu.com/people/qing-feng-jiu-zui)的[2021计算机保研](https://zhuanlan.zhihu.com/p/417233047)
 * @[wyypersist](https://www.zhihu.com/people/the-wang-15)的[2021保研经历分享-感谢过去三年的自己和亲友的支持和帮助](https://zhuanlan.zhihu.com/p/415666100)
 * @[康康](https://www.zhihu.com/people/kang-kang-89-49-32)的[2021年计算机保研经验贴，100天保研大战，纯rk选手，挂到怀疑人生，最终上岸清华深圳计算机专硕](https://zhuanlan.zhihu.com/p/412369681)
@@ -154,8 +156,8 @@
 * @[Cyril_KI](https://blog.csdn.net/Cyril_KI)的[CS保研记录（211 rk2，北邮计算机学院、天津大学智算学部、山东大学计算机学院、北师大AI、西电计算机科学与技术学院）](https://blog.csdn.net/cyril_ki/category_11417649.html)
 * @[Sumsky21](https://sumsky.top/)的[关于保研的ABC（3）个人经历与体会](https://sumsky.top/2021/11/18/baoyan-series-3/)
 * @[王任之](https://www.zhihu.com/people/teng-yi-xiao-23)的[2021计算机保研经验（北航、南大、浙大、同济）](https://zhuanlan.zhihu.com/p/433849235)
-* @[Funforever](https://www.cnblogs.com/jacobfun/)的[2021某不知名211rank9%软工保研&某网约车大厂实习经验分享（就业向）](https://www.cnblogs.com/jacobfun/p/15758050.html)
-* @[rookie](https://www.zhihu.com/people/qu-tang-xia-63)的[2021计算机保研|中九低rk普通人|北大 上交cs 复旦大数据&cs 面经、总结以及复习建议](https://zhuanlan.zhihu.com/p/415573882)
+* @[Funforever](https://www.cnblogs.com/jacobfun/)的[2021某不知名211rank9%软工保研&amp;某网约车大厂实习经验分享（就业向）](https://www.cnblogs.com/jacobfun/p/15758050.html)
+* @[rookie](https://www.zhihu.com/people/qu-tang-xia-63)的[2021计算机保研|中九低rk普通人|北大 上交cs 复旦大数据&amp;cs 面经、总结以及复习建议](https://zhuanlan.zhihu.com/p/415573882)
 * @[dragon_bra](https://www.zhihu.com/people/chi-yue-dian)的[2021厦门大学CS保研经历 | 夏令营游记 | MAC实验室](https://zhuanlan.zhihu.com/p/426136401)
 * @[方知](https://www.zhihu.com/people/piao-lin-66-27)的[2021保研夏令营经验贴](https://zhuanlan.zhihu.com/p/470421627)
 * @[libcso6](https://www.zhihu.com/people/glibc)的[【OUC保研NO.56】To复旦：保研边缘，感觉寄了？那就开摆！](https://mp.weixin.qq.com/s?__biz=MzU2MTcxMzI4NQ==&mid=2247486042&idx=1&sn=9079d5068dbbf15f75fc7819cb4e78b7&chksm=fc75d3b0cb025aa682e459531205965e18cd7c180cccfb12ddfd30046f54dbc9adf77b2b3b1b&mpshare=1&scene=22&srcid=0314FIJCHvhVJqbwti2CVvmu&sharer_sharetime=1647229808862&sharer_shareid=dd1ce66b3ff97b74ecc83dbb60e9b8d3%23rd)
@@ -189,34 +191,34 @@
 - @[一辈闲](https://www.zhihu.com/people/yi-bei-xian-16)的[干货满满的2020计算机保研经验贴！（上交、北大等）](https://zhuanlan.zhihu.com/p/248489246)
 - @[Annalovecoding](https://blog.csdn.net/Annalovecoding)的[2020计算机、信息安全保研记](https://blog.csdn.net/Annalovecoding/article/details/108896834)
 - @[一程山路](https://www.zhihu.com/people/zhang-lei-54-11)的[2020年计算机方向夏令营保研经验分享（南大，北航，天大，南开）](https://zhuanlan.zhihu.com/p/266870455)
-- @[ss-Z](https://www.zhihu.com/people/si-shu-zheng)的["日月星辰陪我走"-2021计算机保研记录/经验贴](https://zhuanlan.zhihu.com/p/268825353)
+- @[ss-Z](https://www.zhihu.com/people/si-shu-zheng)的[&#34;日月星辰陪我走&#34;-2021计算机保研记录/经验贴](https://zhuanlan.zhihu.com/p/268825353)
 - @[b站今天有学习区了吗](https://blog.csdn.net/weixin_43368559)的[【计算机推免】川大计算机夏令营—华南理工软件预推免—华科计算机预推免（2020.10）](【计算机推免】川大计算机夏令营—华南理工软件预推免—华科计算机预推免（2020.10）)
 - @[蓝色树獭](https://www.zhihu.com/people/li-yichen-84-80)的[2020CS安全方向升学小计 保研夏令营｜港校early admission](https://zhuanlan.zhihu.com/p/267499551)
-- @[lfysec](https://lfysec.top/)的[2020CS保研笔记 & 艰难2020总结](https://lfysec.top/2020/10/12/2020CS%E4%BF%9D%E7%A0%94%E7%AC%94%E8%AE%B0/)
+- @[lfysec](https://lfysec.top/)的[2020CS保研笔记 &amp; 艰难2020总结](https://lfysec.top/2020/10/12/2020CS%E4%BF%9D%E7%A0%94%E7%AC%94%E8%AE%B0/)
 - @[Ji Peng](https://www.zhihu.com/people/jipeng-48)的[2020年“工理经管”四大门类保研夏令营混申回忆录（清深、TBSI、计算所、上交电院、北大汇丰等十余个项目）](https://zhuanlan.zhihu.com/p/358182473)
 - @[Rogers博](https://www.zhihu.com/people/lan-feng-shui-men)的[适合对于技术不自信，但想冲击top学校的同学，尝试了很多旁门左道的“宝藏”项目（清华深圳，南大工程管理，中科大苏州，浙大求是研究院，武大信息管理等）](https://www.zhihu.com/question/296432111/answer/2276905797)
 
 ## 2019夏令营总结贴
 
- - @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019北理计算机，北航计算机夏令营，中科院霸面保研经验](https://blog.csdn.net/qq_41997479/article/details/95599816)
- - @[Quentin Lee](https://www.zhihu.com/people/li-qing-quan-65/activities)的[我的计算机保研流水账（2020届）](https://zhuanlan.zhihu.com/p/78585742)
- - @[Y.Shu](https://www.zhihu.com/people/dai-tu-zhe/activities)的[2019计算机保研经历：清华计算机·清华软院·清华深研院·南大计算机·浙大计算机等](https://zhuanlan.zhihu.com/p/88537420)
- - @[Johnson](https://blog.csdn.net/m0_38055352)的[【2019保研经验】清华贵系、清华软院、北大叉院、中科院自动化所等](https://blog.csdn.net/m0_38055352/article/details/102887818)
- - @[宫·商](https://blog.csdn.net/qq_38633884)的[2019上交、上科、北航、中科大、自动化所计算机夏令营+浙大计算机预推免简记](https://blog.csdn.net/qq_38633884/article/details/97178586)
- - @[圈圈](https://www.zhihu.com/people/li-quan-quan-24)的[2020年保研经历](https://blog.csdn.net/qq_40742077/article/details/109064266)
- - @[Ji Peng](https://www.zhihu.com/people/jipeng-48)的[2020年“工理经管”四大门类保研夏令营混申回忆录（清深、TBSI、计算所、上交电院、北大汇丰等十余个项目）](https://zhuanlan.zhihu.com/p/358182473)
+- @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019北理计算机，北航计算机夏令营，中科院霸面保研经验](https://blog.csdn.net/qq_41997479/article/details/95599816)
+- @[Quentin Lee](https://www.zhihu.com/people/li-qing-quan-65/activities)的[我的计算机保研流水账（2020届）](https://zhuanlan.zhihu.com/p/78585742)
+- @[Y.Shu](https://www.zhihu.com/people/dai-tu-zhe/activities)的[2019计算机保研经历：清华计算机·清华软院·清华深研院·南大计算机·浙大计算机等](https://zhuanlan.zhihu.com/p/88537420)
+- @[Johnson](https://blog.csdn.net/m0_38055352)的[【2019保研经验】清华贵系、清华软院、北大叉院、中科院自动化所等](https://blog.csdn.net/m0_38055352/article/details/102887818)
+- @[宫·商](https://blog.csdn.net/qq_38633884)的[2019上交、上科、北航、中科大、自动化所计算机夏令营+浙大计算机预推免简记](https://blog.csdn.net/qq_38633884/article/details/97178586)
+- @[圈圈](https://www.zhihu.com/people/li-quan-quan-24)的[2020年保研经历](https://blog.csdn.net/qq_40742077/article/details/109064266)
+- @[Ji Peng](https://www.zhihu.com/people/jipeng-48)的[2020年“工理经管”四大门类保研夏令营混申回忆录（清深、TBSI、计算所、上交电院、北大汇丰等十余个项目）](https://zhuanlan.zhihu.com/p/358182473)
 
 ## 2018年夏令营总结贴
 
- - @[Johnny的博客](https://sweetice.github.io/)的[佛系保研：电气工程跨保AI](https://sweetice.github.io/2018/10/03/%E4%BD%9B%E7%B3%BB%E4%BF%9D%E7%A0%94-%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E8%B7%A8%E4%BF%9DAI/)
- - @[TINA](https://www.zhihu.com/people/tina-67-56)的[2018保研心得体会](https://zhuanlan.zhihu.com/p/45818580)
- - @[孙笑川](https://weibo.com/currycode)的[低价值保研经验](https://mp.weixin.qq.com/s?__biz=MzI4NjU0ODQ1Ng==&mid=2247484202&idx=1&sn=c7ee699b9c16acc835ed6846fefddbad)
- - @[基本法](https://cp-here.github.io/)的[保研呐就都不知道，自己就不可以预料](https://www.jianshu.com/p/2228d7464d99)
- - @[Smlight](https://github.com/Smlight)的[保研经历](https://smlight.github.io/blog/2018/10/12/block2/)
- - @[mengwuyaaa](https://blog.csdn.net/mengwuyaaa)的[清华北大计算所自动化所计算机夏令营详细攻略](https://blog.csdn.net/mengwuyaaa/article/details/82918032)
- - @[Zarper](https://oncemath.com)的[保研推免经验分享 - 数学系跨保 CS](https://oncemath.com/share/my-postgraduate-share/) 
- - @[lhw](https://www.zhihu.com/people/lhw-55/posts)的[211物联网工程保研中国科学技术大学cs自然语言处理方向](https://zhuanlan.zhihu.com/p/60553247)
- - @[菜得抠脚](https://github.com/taogelose)的[某菜在北航、中科院、南开的计算机视觉(CV)方向保研经历](https://blog.csdn.net/Taogewins/article/details/89087610)
+- @[Johnny的博客](https://sweetice.github.io/)的[佛系保研：电气工程跨保AI](https://sweetice.github.io/2018/10/03/%E4%BD%9B%E7%B3%BB%E4%BF%9D%E7%A0%94-%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E8%B7%A8%E4%BF%9DAI/)
+- @[TINA](https://www.zhihu.com/people/tina-67-56)的[2018保研心得体会](https://zhuanlan.zhihu.com/p/45818580)
+- @[孙笑川](https://weibo.com/currycode)的[低价值保研经验](https://mp.weixin.qq.com/s?__biz=MzI4NjU0ODQ1Ng==&mid=2247484202&idx=1&sn=c7ee699b9c16acc835ed6846fefddbad)
+- @[基本法](https://cp-here.github.io/)的[保研呐就都不知道，自己就不可以预料](https://www.jianshu.com/p/2228d7464d99)
+- @[Smlight](https://github.com/Smlight)的[保研经历](https://smlight.github.io/blog/2018/10/12/block2/)
+- @[mengwuyaaa](https://blog.csdn.net/mengwuyaaa)的[清华北大计算所自动化所计算机夏令营详细攻略](https://blog.csdn.net/mengwuyaaa/article/details/82918032)
+- @[Zarper](https://oncemath.com)的[保研推免经验分享 - 数学系跨保 CS](https://oncemath.com/share/my-postgraduate-share/)
+- @[lhw](https://www.zhihu.com/people/lhw-55/posts)的[211物联网工程保研中国科学技术大学cs自然语言处理方向](https://zhuanlan.zhihu.com/p/60553247)
+- @[菜得抠脚](https://github.com/taogelose)的[某菜在北航、中科院、南开的计算机视觉(CV)方向保研经历](https://blog.csdn.net/Taogewins/article/details/89087610)
 
 ## 2017年夏令营总结贴
 
@@ -234,9 +236,8 @@
 #### 清华大学计算机系
 
 - @[CYMario](https://www.zhihu.com/people/cymario)的[清华大学计算机类专业考研/保研--机试经验贴](https://zhuanlan.zhihu.com/p/614290119)（机考第一关于上机考试的全面解析）
-
- - @[马天猫](https://www.zhihu.com/people/ma-shao-nan-89/)的[马天猫的CS保研经历](http://www.voidcn.com/article/p-nmrtcllh-bph.html)
- - 杜鑫乐的[杜鑫乐：我的清华梦](http://mp.weixin.qq.com/s?srcid=0929yApBvkizkgYDzI4vrXfc&scene=22&mid=2247484472&sn=e0dd3de3f4ea596628989d5ad5807604&idx=1&__biz=MzIxMzM2MjM1Mw%3D%3D&chksm=97b6b7e6a0c13ef000050d61fc1c70a442d7675be3cb84bf9730a36cdcb3d71b50b8f7e95255&mpshare=1#rd)
+- @[马天猫](https://www.zhihu.com/people/ma-shao-nan-89/)的[马天猫的CS保研经历](http://www.voidcn.com/article/p-nmrtcllh-bph.html)
+- 杜鑫乐的[杜鑫乐：我的清华梦](http://mp.weixin.qq.com/s?srcid=0929yApBvkizkgYDzI4vrXfc&scene=22&mid=2247484472&sn=e0dd3de3f4ea596628989d5ad5807604&idx=1&__biz=MzIxMzM2MjM1Mw%3D%3D&chksm=97b6b7e6a0c13ef000050d61fc1c70a442d7675be3cb84bf9730a36cdcb3d71b50b8f7e95255&mpshare=1#rd)
 
 #### 清华大学交叉学院
 
@@ -244,7 +245,7 @@
 
 #### 清华大学网研院
 
- - @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019年9月清华网研院预推免保研经验](https://blog.csdn.net/qq_41997479/article/details/101027420)
+- @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019年9月清华网研院预推免保研经验](https://blog.csdn.net/qq_41997479/article/details/101027420)
 
 #### 北京大学信息科学技术学院
 
@@ -275,15 +276,15 @@
 
 #### 北京航空航天大学计算机学院
 
- - @[EternalWang](http://www.jianshu.com/u/b271feb9cb4d)的[2017北航计算机学院夏令营经历](http://www.jianshu.com/p/6309431fce62)
- - @[仲夏123](http://www.jianshu.com/u/bdda419e067d)的[记北大叉院，北航夏令营经历](http://www.jianshu.com/p/ce3c98acd5a7)
- - @[不会游泳的鱼鱼鱼](http://www.jianshu.com/u/36bda6ee1ecb)的[西电to北航 一路保研经验分享](http://www.jianshu.com/p/826b7f761e7d)
- - @[Trrific](https://trrific.me)的[双非to北航CSの坎坷保研路](https://trrific.me/2018/10/16/%E5%8F%8C%E9%9D%9Eto%E5%8C%97%E8%88%AACS%E3%81%AE%E5%9D%8E%E5%9D%B7%E4%BF%9D%E7%A0%94%E8%B7%AF/)
- - @[菜得抠脚](https://github.com/taogelose)的[某菜混进北航做计算机视觉的保研经历](https://blog.csdn.net/Taogewins/article/details/89087610)
+- @[EternalWang](http://www.jianshu.com/u/b271feb9cb4d)的[2017北航计算机学院夏令营经历](http://www.jianshu.com/p/6309431fce62)
+- @[仲夏123](http://www.jianshu.com/u/bdda419e067d)的[记北大叉院，北航夏令营经历](http://www.jianshu.com/p/ce3c98acd5a7)
+- @[不会游泳的鱼鱼鱼](http://www.jianshu.com/u/36bda6ee1ecb)的[西电to北航 一路保研经验分享](http://www.jianshu.com/p/826b7f761e7d)
+- @[Trrific](https://trrific.me)的[双非to北航CSの坎坷保研路](https://trrific.me/2018/10/16/%E5%8F%8C%E9%9D%9Eto%E5%8C%97%E8%88%AACS%E3%81%AE%E5%9D%8E%E5%9D%B7%E4%BF%9D%E7%A0%94%E8%B7%AF/)
+- @[菜得抠脚](https://github.com/taogelose)的[某菜混进北航做计算机视觉的保研经历](https://blog.csdn.net/Taogewins/article/details/89087610)
 
 #### 中科院自动化所
 
- - @[mallmeen](http://www.jianshu.com/u/c17bbd102bc1)的[自动化所9月推免面经](http://www.jianshu.com/p/475d8b14639c)
+- @[mallmeen](http://www.jianshu.com/u/c17bbd102bc1)的[自动化所9月推免面经](http://www.jianshu.com/p/475d8b14639c)
 
 #### 中科院计算所
 
@@ -316,6 +317,7 @@
 感谢前任群主和学长们[shiyi001](https://github.com/shiyi001)、[hcy](https://github.com/hcy226)、[Andy Zheng](https://github.com/Smlight)、[BoJack](https://github.com/ddlBoJack)、[墨云沧（虎哥）](https://github.com/richardodliu)和[阿尔法杨XDU（杨神）](https://github.com/Alpha-Yang)的收集和整理，保研经验贴、夏令营信息和预推免信息以后将统一在本项目中更新。
 
 # Copyright
+
 ```
 # Copyright      2023  (Yifan   Yang, https://github.com/yfyeung,
 #                       Renbiao Liu,  https://github.com/richardodliu,
